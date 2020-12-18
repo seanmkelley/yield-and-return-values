@@ -127,6 +127,7 @@ Now that we understand that calling `yield(some_argument)` will give us the retu
 
 ```ruby
 def hello(array)
+  
   i = 0
   collection = []
   while i < array.length
