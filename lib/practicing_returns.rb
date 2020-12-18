@@ -1,4 +1,4 @@
-require 'pry'
+cdrequire 'pry'
 
 def hello(array)
   i = 0
